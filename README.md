@@ -6,8 +6,8 @@ I'm a **Full Stack Software Engineer** who enjoys building clean, production-rea
 
 -   🌱 Currently learning: **npm workspaces, monorepo tooling, and build pipelines**
 -   🔭 Working on: **Lucid — a personal game library tracker**
--   🌍 Languages: **JavaScript, TypeScript, English**
--   ⚡ Fun fact: **I built an entire app just to track my game backlog**
+-   🌍 Languages/Library/Frameworks: **HTLM, CSS, JavaScript, Node, React, Typescript**
+-   ⚡ Fun fact: **I love building lego sets, watching anime (currently obessessed with Jujutsu Kaisen), gaming on console, and collecting stuff (ex. Pokemon Cards, Funko Pops, etc)**
 
 ## My Skills 🧠
 
