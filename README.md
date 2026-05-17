@@ -2,36 +2,24 @@
 
 ## About Me 🚀
 
-I'm a passionate **Full Stack Software Engineer** with experience in **HTML, CSS, JavScript, React, TypeScript and Node**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a **Full Stack Software Engineer** who enjoys building clean, production-ready web applications with a focus on great developer experience and solid architecture.
 
--   🌱 Currently learning: **[new technologies or skills you're currently learning]**
--   🔭 Working on: **[current projects or side-projects]**
--   🌍 Languages: **[programming languages and human languages you speak]**
--   📫 How to reach me: **[your email address or other contact information]**
--   ⚡ Fun fact: **[a fun fact about yourself]**
+-   🌱 Currently learning: **npm workspaces, monorepo tooling, and build pipelines**
+-   🔭 Working on: **Lucid — a personal game library tracker**
+-   🌍 Languages: **JavaScript, TypeScript, English**
+-   ⚡ Fun fact: **I built an entire app just to track my game backlog**
 
 ## My Skills 🧠
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-3998B6?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-_Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile)._
-
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Lucid](https://github.com/EmLopezDev/lucid)
 
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**Lucid** is a full-stack personal game library tracker built with **React 19, TypeScript, Node.js, Express, and MongoDB**. Log games across five statuses — Playing, Completed, Paused, Dropped, and Wishlist — with ratings, hours played, price, and notes. Includes a dashboard with library stats, secure authentication with email verification, and account management. You can check out the repository [here](https://github.com/EmLopezDev/lucid).
 
 ## Get in Touch 📬
 
--   **[Personal Website / Blog]**(your_website_or_blog_link)
--   **[LinkedIn]**(your_linkedin_profile_link)
--   **[Twitter]**(your_twitter_profile_link)
+-   **LinkedIn**: [emmanuel-lopez](https://www.linkedin.com/in/emmanuel-lopez-a812b0127)
+-   **Email**: [emlopezdev@gmail.com](mailto:emlopezdev@gmail.com)
