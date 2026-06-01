@@ -21,5 +21,5 @@ I'm a **Full Stack Software Engineer** who enjoys building clean, production-rea
 
 ## Get in Touch 📬
 
--   **LinkedIn**: [emmanuel-lopez](www.linkedin.com/in/emlopezdev)
+-   **LinkedIn**: [https://www.linkedin.com/in/emlopezdev/](https://www.linkedin.com/in/emlopezdev/)
 -   **Email**: [emlopezdev@gmail.com](mailto:emlopezdev@gmail.com)
